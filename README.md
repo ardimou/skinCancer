@@ -1,0 +1,1 @@
+This project contains a model which classifies malignant to benign skin tumors
