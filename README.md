@@ -2,7 +2,7 @@
 
 This project contains a model which classifies malignant to benign skin tumors. The data are located in 
 https://www.kaggle.com/datasets/hasinisadunikasilva/skincancerdetectiondcnn
-and they consist of images of benign and malignant skin tumors, already splitted to train and test set. 
+and they consist of images of benign and malignant skin tumors, already split to train and test set. 
 
 <figure>
   <img src="./images/1.png" alt="1">
